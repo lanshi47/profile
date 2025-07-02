@@ -1,5 +1,5 @@
 <div align="center">
-[!CodeTime Badge [<sup>1</sup>](https://img.shields.io/endpoint?style=plastic&color=539D64&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33541)](https://codetime.dev)
+[![CodeTime Badge]](https://img.shields.io/endpoint?style=plastic&color=539D64&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33541)](https://codetime.dev)
   
 | GitHub Stats | Top Languages |
 |--------------|---------------|
