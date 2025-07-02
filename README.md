@@ -13,14 +13,5 @@
 |--------------|---------------|
 | ![](https://github-readme-stats.vercel.app/api?username=lanshi47&theme=transparent&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanshi47&theme=transparent&layout=compact) |
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lanshi47&theme=transparent&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanshi47&theme=transparent&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+
 </div>
