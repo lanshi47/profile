@@ -1,5 +1,10 @@
 <div align="center">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=plastic&color=539D64&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33541">
+<img 
+  src="https://img.shields.io/endpoint?style=plastic&color=539D64&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33541" 
+  alt="CodeTime Badge" 
+  style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); width: 200px; height: auto;"
+/>
+
 
 | GitHub Stats | Top Languages |
 |--------------|---------------|
