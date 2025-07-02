@@ -9,7 +9,7 @@
   
 | GitHub Stats | Top Languages |
 |--------------|---------------|
-| ![](https://github-readme-stats.vercel.app/api?username=lanshi47&show_icon=true&theme=vue&count_private=true&locale=cn) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanshi47&theme=vue) |
+| ![](https://github-readme-stats.vercel.app/api?username=lanshi47&show_icon=true&theme=vue&count_private=true&locale=cn) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanshi47&theme=vue&locale=cn) |
 
 
 </div>
