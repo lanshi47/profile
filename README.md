@@ -1,4 +1,6 @@
-# Hey 👋, This is Lanshi    <p align="left"><img src="https://komarev.com/ghpvc/?username=lanshi17" alt="lanshi17" /></p>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=640&size=32&pause=1000&color=95F700&width=453&height=60&lines=Hey+%F0%9F%91%8B%2C+This+is+Lanshi)](https://git.io/typing-svg) 
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=lanshi17" alt="lanshi17" /></p>
 
 ![Metrics](https://github.com/lanshi17/lanshi17/blob/master/github-metrics.svg)
 
@@ -26,7 +28,8 @@
 
 ##  WakaTime
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lanshi17)](https://github.com/anuraghazra/github-readme-stats)
-
+## GitHub Activity
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lanshi17&theme=vue)
 
 ## 💻 Languages and Tools
 
