@@ -30,7 +30,36 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lanshi17)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-216-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 106.0 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I Mostly Code in TeX** 
+
+```text
+TeX                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+C++                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/lanshi17/lanshi17/master/assets/bar_graph.png)
+
+
+ Last Updated on 03/07/2025 18:49:34 UTC
 <!--END_SECTION:waka-->
 
 ## 📅 GitHub Activity
