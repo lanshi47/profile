@@ -41,8 +41,6 @@
 </picture>
 
 ### 📈 Activity Graph
-![Activity Icon](https://img.shields.io/badge/Activity%20Graph-Dynamic-brightgreen?style=flat&logo=github)
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lanshi17&theme=vue)](https://github.com/gadzhi/gh-activity-graph)
 
 
