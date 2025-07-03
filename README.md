@@ -1,5 +1,6 @@
 # Hey 👋, This is Lanshi    <p align="left"><img src="https://komarev.com/ghpvc/?username=lanshi17" alt="lanshi17" /></p>
 
+![Metrics](https://github.com/lanshi17/lanshi17/blob/master/github-metrics.svg)
 
 
 
@@ -24,7 +25,7 @@
 | ![](https://github-readme-stats.vercel.app/api?username=lanshi17&show_icons=true&theme=vue&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanshi17&theme=vue) |
 
 ##  WakaTime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lanshi)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lanshi17)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💻 Languages and Tools
