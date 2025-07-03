@@ -11,9 +11,10 @@
 
 ## 🌟 My Projects
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=FishStone-Cloud&show_owner=true)   ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=leetcode&show_owner=true) 
 
-</div>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=FishStone-Cloud)](https://github.com/lanshi17/FishStone-Cloud)   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=leetcode&show_owner=true)](https://github.com/lanshi17/leetcode) 
+
+
 
 
 ## 📊 GitHub Stats
@@ -22,7 +23,7 @@
 |--------------|---------------|
 | ![](https://github-readme-stats.vercel.app/api?username=lanshi17&show_icons=true&theme=vue&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanshi17&theme=vue) |
 
-## WakaTime
+##  WakaTime
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lanshi)](https://github.com/anuraghazra/github-readme-stats)
 
 
