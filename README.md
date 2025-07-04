@@ -18,6 +18,11 @@
   
 ## 📕 &nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI模型与输入输出](https://lanshi.xyz/studynotes/ai_models_and_input_output/)
+- [AI](https://lanshi.xyz/tags/ai/)
+- [LangChain](https://lanshi.xyz/tags/langchain/)
+- [OpenAI](https://lanshi.xyz/tags/openai/)
+- [Python](https://lanshi.xyz/tags/python/)
 <!-- BLOG-POST-LIST:END -->
 ## 🌟 My Projects
 
