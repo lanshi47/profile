@@ -16,7 +16,7 @@
 - **GitHub**:  
   [![Github Badge](https://img.shields.io/badge/-lanshi17-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lanshi17/)](https://www.github.com/lanshi17/)
   
-## 📕 &nbsp;Latest Blog Posts  [@lanshi17](https://github.com/lanshi17)
+## 📕 &nbsp;Latest Blog Posts  [@lanshi17](https://lanshi.xyz)
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
