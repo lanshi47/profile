@@ -20,7 +20,7 @@
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>AI模型与输入输出</td><td>https://lanshi.xyz/studynotes/ai_models_and_input_output/</td></tr><tr><td>LangChain介绍</td><td>https://lanshi.xyz/posts/langchain_introduce/</td></tr><tr><td>API用法示例</td><td>https://lanshi.xyz/studynotes/api_usage_example/</td></tr><tr><td>提示词工程</td><td>https://lanshi.xyz/posts/promptengineering/</td></tr><tr><td>LobeChat 部署 - 服务端</td><td>https://lanshi.xyz/posts/lobechat_deploy/</td></tr><tr><td>模型评估与选择</td><td>https://lanshi.xyz/studynotes/watermelonbook02/</td></tr><tr><td>LaTeX常用数学符号大全</td><td>https://lanshi.xyz/posts/common_mathematical_formulas/</td></tr><tr><td>火力发电效率数据探索分析</td><td>https://lanshi.xyz/studynotes/aiot1.1.1/</td></tr><tr><td>数据库系统原理课程学习笔记&lpar;四&rpar;</td><td>https://lanshi.xyz/studynotes/databaseex4/</td></tr><tr><td>西瓜书学习笔记&lpar;一&rpar;--绪论</td><td>https://lanshi.xyz/studynotes/watermelonbook01/</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ## 🌟 My Projects
