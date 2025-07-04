@@ -15,7 +15,10 @@
   [![wechat Badge](https://img.shields.io/badge/-Skurayzs-12B76A?style=flat&logo=wechat&logoColor=white&link=https://img.picui.cn/free/2025/04/19/68030b5da4fa3.png)](https://img.picui.cn/free/2025/04/19/68030b5da4fa3.png)
 - **GitHub**:  
   [![Github Badge](https://img.shields.io/badge/-lanshi17-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lanshi17/)](https://www.github.com/lanshi17/)
-
+  
+## 📕 &nbsp;Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ## 🌟 My Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=FishStone-Cloud)](https://github.com/lanshi17/FishStone-Cloud)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=leetcode&show_owner=true)](https://github.com/lanshi17/leetcode)
