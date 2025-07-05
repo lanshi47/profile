@@ -34,7 +34,7 @@
 | ![](https://github-readme-stats.vercel.app/api?username=lanshi17&show_icons=true&theme=vue&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanshi17&theme=vue) |
 
 ## 🔥 WakaTime Stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lanshi17)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lanshi17)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2042%20mins-blue)
