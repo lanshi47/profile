@@ -25,7 +25,7 @@
 
 ## 🌟 My Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=FishStone-Cloud)](https://github.com/lanshi17/FishStone-Cloud)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=leetcode&show_owner=true)](https://github.com/lanshi17/leetcode)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=FishStone-Cloud)](https://github.com/lanshi17/FishStone-Cloud)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=leetcode&show_owner=true)](https://github.com/lanshi17/leetcode)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=AI-large-model-application-development&show_owner=true)](https://github.com/lanshi17/AI-large-model-application-development)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=AIoT_notebook&show_owner=true)](https://github.com/lanshi17/AIoT_notebook) 
 
 ## 📊 GitHub Stats
 
